@@ -1,12 +1,7 @@
 div {
-
-
-
-    font-size: 32;
-    font-weight: 700;
+    font-size: 32px;
+    font-weight: bold;
     color: white;
     background-color: red;
     text-align: center;
-
-    
 }
