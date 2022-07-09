@@ -1,14 +1,14 @@
-.first,
-.second {
+.natural,
+.fancy {
     font-size: 28px;
     font-family:"Helvetica", "Times New Roman", sans-serif;
 }
 
-.first {
+.natural {
     background-color: black;
     color: white;
 }
 
-.second {
+.fancy {
     background-color: yellow;
 }
